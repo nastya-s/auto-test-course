@@ -1,2 +1,2 @@
 # auto-test-course
-Homework for course
+Here you can look through all homework of 2nd module
